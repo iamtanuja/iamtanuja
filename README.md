@@ -25,5 +25,12 @@ Python Flask MySQL Windows Terminal HTML5 JavaScript
 
 
 
+
+
+
+
+
+
+
 <img width="300" height="140" alt="image" src="https://github.com/user-attachments/assets/6520ebc2-d763-47f5-b369-4f84cd847934" />
 
