@@ -3,6 +3,8 @@ I’m currently working on building cybersecurity fundamentals through hands-on 
 
 🌐 Socials:
 LinkedIn  https://linkedin.com/in/www.linkedin.com/in/tanujachikane
+
+
 email     tanujachikane2005@gmail.com
 
 💻 Tech Stack:
@@ -11,7 +13,13 @@ Python Flask MySQL Windows Terminal HTML5 JavaScript
 📊 GitHub Stats:
 <img width="450" height="195" alt="image" src="https://github.com/user-attachments/assets/f5c72312-2a6a-4e7e-8f54-37ea9d581b68" />
 
+
+
+
 <img width="495" height="195" alt="image" src="https://github.com/user-attachments/assets/38613316-49db-4f45-a7db-f07480056a48" />
+
+
+
 
 
 <img width="300" height="140" alt="image" src="https://github.com/user-attachments/assets/6520ebc2-d763-47f5-b369-4f84cd847934" />
