@@ -10,7 +10,7 @@ LinkedIn  https://linkedin.com/in/www.linkedin.com/in/tanujachikane
 email     tanujachikane2005@gmail.com
 
 💻 Tech Stack:
-Python Flask MySQL Windows Terminal HTML5 JavaScript
+Networling Fundamentals Cybersecurity Linux Terminal Python Flask MySQL Windows Terminal HTML5 JavaScript
 
 📊 GitHub Stats:
 
