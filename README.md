@@ -1,16 +1,14 @@
-## Hi there 👋
+bout Me:
+I’m currently working on building cybersecurity fundamentals through hands-on labs in networking, Linux, and security monitoring, including a SIEM-inspired log analysis project using Flask and SQLite. I’m looking to collaborate on cybersecurity projects, SOC-related labs, and beginner-friendly penetration testing or network security work, and I’m also looking for help with improving my real-world SOC workflows, incident response skills, and advanced penetration testing techniques. I’m currently learning cybersecurity fundamentals, TCP/IP networking, DNS, HTTP, Linux administration, Wireshark packet analysis, and Nmap-based network scanning. You can ask me about networking basics, Linux commands, cybersecurity learning paths, SOC analyst preparation, and beginner ethical hacking labs. Fun fact: I enjoy breaking down how systems communicate at the network level and solving real-world style security labs.
 
-<!--
-**iamtanuja/iamtanuja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Socials:
+LinkedIn email
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+Python Flask MySQL Windows Terminal HTML5 JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats:
+
+
+
+
